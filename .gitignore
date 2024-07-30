@@ -1,0 +1,19 @@
+.bash_history
+.bash_logout
+.bash_profile
+.cache/
+.gnupg/
+.local/
+.pki/
+start-hypr
+.vscode-oss/
+
+.config/Code - OSS
+.config/chromium
+.config/pulse
+.config/xfce4
+.config/yay
+.config/systemd
+.config/Thunar
+
+
